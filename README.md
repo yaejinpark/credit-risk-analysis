@@ -5,7 +5,8 @@ Module 17 - Supervised Machine Learning and Credit Risk
 ## Overview
 There are many ways to improve a ML model depending on how the input data is in terms of balance, quantity (in samples), and etc. The main objective of this assignment is to explore some of these methods by applying them on several models formed to fit a dataset of people's loan status and their financial information. Some methods will work better than the others, and depending on their performance, an analyst would decide which method is suited best for an analysis. A total of six methods for oversampling, undersampling, and or ensemble learning was explored.
 
-NOTE: For accuracies of each models, please refer to the two jupyter notebooks in this repository.
+NOTE 1: For accuracies of each models, please refer to the two jupyter notebooks in this repository.
+NOTE 2: Due to the file size, LoanStats_2019Q1.csv is not included in this repository. Please place one in the same hierarchy level as the Jupyter notebooks if you decide to run the code without error.
 
 ### Oversampling
 #### Naive Random Oversampling
